@@ -1,31 +1,15 @@
-<<<<<<< HEAD
-# ECommerce
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
+# ECommerce  (Papi Store)
 
-## Development server
+### [Live Demo](https://bright-cocada-aba6d5.netlify.app/home)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Introduction
 
-## Code scaffolding
+This project aims to create a fully functional E-Commerce web application using Angular that allows users to browse a wide range of products fetched from the Fakestore API. Users can view product details, add items to the cart, and proceed to the checkout process. The integration with Stripe ensures secure payment processing, making it easy for users to purchase products with confidence.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Technologies Used
+* TypeScript (Angular Framework)
+* HTML
+* Tailwind CSS
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-=======
-# E-Commerce
->>>>>>> 362a8cd1f63d7ee286c55bbdf0dc32f8b74bc41b
